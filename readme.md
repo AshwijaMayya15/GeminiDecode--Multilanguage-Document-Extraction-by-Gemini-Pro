@@ -42,6 +42,8 @@ GeminiDecode: Multilanguage Document Extraction by Gemini Pro is a cutting-edge 
 4. **Result Generation:** The Gemini Pro pre-trained model processes the input and generates the output.
 5. **Output Display:** The results are returned to the frontend for formatting and display.
 
+![Screenshot 2024-10-17 125126](https://github.com/user-attachments/assets/0ef988c4-0606-4be2-ac9a-7339aabd3d12)
+
 ## Requirements Specification
 
 ### Steps to Complete the Project
