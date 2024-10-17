@@ -13,7 +13,7 @@ GeminiDecode: Multilanguage Document Extraction by Gemini Pro is a cutting-edge 
 2. **Create and activate a virtual environment (optional but recommended):**
     ```bash
     python3 -m venv .venv
-    On Windows: venv\Scripts\activate #On linux:source venv/bin/activate
+    On Windows: .venv\Scripts\activate #On linux:source venv/bin/activate
     ```
 
 3. **Install the dependencies:**
