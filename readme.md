@@ -7,7 +7,6 @@ GeminiDecode: Multilanguage Document Extraction by Gemini Pro is a cutting-edge 
 1. **Clone the repository:**
     ```bash
     git clone https://github.com/AshwijaMayya15/GeminiDecode--Multilanguage-Document-Extraction-by-Gemini-Pro
-    cd GeminiDecode
     ```
 
 2. **Create and activate a virtual environment (optional but recommended):**
