@@ -48,7 +48,6 @@ GeminiDecode: Multilanguage Document Extraction by Gemini Pro is a cutting-edge 
 ### Steps to Complete the Project
 
 1. **Requirements Specification**
-
    Create a `requirements.txt` file to list the required libraries.Install the required libraries.
    Specifying the required libraries making it easier for others to replicate the development environment.
 
@@ -56,10 +55,7 @@ GeminiDecode: Multilanguage Document Extraction by Gemini Pro is a cutting-edge 
     - Streamlit_extras:  Additional utilities and enhancements for Streamlit applications.
     - Google-generativeai:  Python client library for accessing the GenerativeAI API, facilitating interactions with pre-trained language models like Gemini Pro.
     - Python-dotenv:  Python-dotenv allows you to manage environment variables stored in a .env file for your Python projects.
-    - PyPDF2:  It is a Python library for extracting text and manipulating PDF documents.
-    - Pillow:  Pillow is a Python Imaging Library (PIL) fork that adds support for opening, manipulating, and saving many different image file formats.
-    - LangChain: Provides tools and abstractions to improve the customization, accuracy, and relevancy of the information the models generate
- 
+    - Pillow:  Pillow is a Python Imaging Library (PIL) fork that adds support for opening, manipulating, and saving many different image file formats. 
 
 3. **Initialization of Google API Key**
     - Generate Google API Key.
